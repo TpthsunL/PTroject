@@ -1,2 +1,7 @@
 
-![image](https://user-images.githubusercontent.com/85602310/140643420-1435ab20-b0ea-4d36-bba9-1ab357b65c2c.png)
+
+## 데이터 설명 
+
+1. data-preprocessing         : 각각의 원본 데이터 전처리
+2. preprocessed_data-merge    : 전처리 된 데이터를 가지고 merge 후 최종 데이터 파일 생성
+3. 데이터_전처리              : 이상치 제거 및 데이터 범위 필터링 후 최종 데이터로 선택
